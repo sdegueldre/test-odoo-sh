@@ -1,0 +1,4 @@
+[submodule "sdegueldre/test-odoo-sh"]
+	path = sdegueldre/test-odoo-sh
+	url = git@github.com:sdegueldre/test-odoo-sh.git
+	branch = main
